@@ -1,0 +1,2 @@
+rootProject.name='CheckYourPower'
+include ':app'
